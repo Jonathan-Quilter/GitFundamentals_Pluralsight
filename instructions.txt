@@ -1,3 +1,6 @@
 connecting to the server server
 -------------------------
 blah blah do this do that
+
+troubleshooting
+----------------
